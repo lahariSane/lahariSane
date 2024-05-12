@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lahariSane
-- 👀 I’m interested in Data Science     
+- 👀 Exploring Machine Learning      
 - 🌱 I’m currently learning CSE course at IIIT SRICITY
 - 💞️ I’m looking to collaborate on innovative ideas.
 - 📫 How to reach me at my mail ID laharisane1511@gmail.com
